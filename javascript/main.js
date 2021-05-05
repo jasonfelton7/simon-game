@@ -196,6 +196,8 @@ function check() {
 
   if (good == false) {
     flashColor();
+    let audio = document.getElementById("wrong");
+    audio.play();
     turnCounter.innerHTML = "NO!";
     setTimeout(() => {
       turnCounter.innerHTML = turn;
