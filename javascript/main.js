@@ -80,7 +80,7 @@ function gameTurn() {
       if (order[flash] == 3) three();
       if (order[flash] == 4) four();
       flash++;
-    }, 100);
+    }, 300);
   }
 }
 
