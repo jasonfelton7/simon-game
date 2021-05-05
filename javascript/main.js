@@ -236,4 +236,4 @@ function winGame() {
 }
 
 
-/* Thanks to Beau Carnes of FreeCodeCamp for the tutorial for the JavaScript. I made modifications to the HTML and CSS, but the JavaScript is mainly as shown in the tutorial. */
+/* Thanks to Beau Carnes of FreeCodeCamp for the tutorial for the JavaScript. I made modifications to the HTML and CSS and recorded and used my own sounds, but the JavaScript is mainly as shown in the tutorial. */
